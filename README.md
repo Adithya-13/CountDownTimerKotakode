@@ -1,8 +1,8 @@
 <h1 align="center">
-  Kotakode's Serial Blog : Countdown App
+  Kotakode's Blog Series : Countdown App
 </h1>
 <p align="center">
-  Countdown App : Serial Blogs in Kotakode.
+  Countdown App : Blog Series in Kotakode.
 </p>
 <p align="center">
   <a href="http://developer.android.com/index.html"><img alt="Platform" src="https://img.shields.io/badge/platform-Android-green.svg"></a>
@@ -22,7 +22,7 @@
 
 ## Introduction
 
-This project is made for Kotakode's Serial Blog in here 
+This project is made for Kotakode's Blog Series in here 
 
 * [Persiapan Membuat Countdown App - Part 1](https://kotakode.com/blogs/4265/Persiapan-Membuat-Countdown-App---Part-1)
 * [Start, Pause, Reset Countdown App - Part 2](https://kotakode.com/blogs/4268/Start%2C-Pause%2C-Reset-Timer-Countdown-App---Part-2)
